@@ -1,14 +1,10 @@
 ## FlashCardApp
-
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
+📝 
 ## Lab 1
 
 ### App Description
 `TODO://` My Flashcard app  can display a question, and selectable multiple choice answers beneath the card.
 <img src="https://github.com/Vandersar02/FlashCardApp/blob/main/flashcardapp(vandersar).gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [ ] Create New Project in Android Studio
