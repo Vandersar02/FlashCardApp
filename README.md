@@ -4,7 +4,7 @@
 
 ### App Description
 `TODO://` My Flashcard app  can display a question, and selectable multiple choice answers beneath the card.
-<img src="https://github.com/Vandersar02/FlashCardApp/blob/main/flashcardapp(vandersar).gif" width=200><br>
+<img src="https://github.com/Vandersar02/FlashCardApp/blob/main/flashcardapp(Vandersar).gif" width=200><br>
 
 ## Required
 - [ ] Create New Project in Android Studio
